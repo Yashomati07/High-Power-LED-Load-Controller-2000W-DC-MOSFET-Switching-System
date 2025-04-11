@@ -1,4 +1,4 @@
-#  DC Load Control System
+#  High-Power DC Load Controller
 
 This project is a robust, high-power DC load controller utilizing an STM32 microcontroller. It's capable of managing and monitoring a **2000W DC load** (such as LEDs or resistive elements) powered by a **40V DC input supply**. The system integrates key features including **thermal monitoring**, a **buck converter for voltage regulation**, **logic-level MOSFET switching**, and multiple **protection mechanisms** to ensure reliable operation.
 
